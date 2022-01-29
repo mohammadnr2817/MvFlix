@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defaultPadding">6dp</dimen>
+    <dimen name="defaultElevation">4dp</dimen>
+    <dimen name="defaultRadius">12dp</dimen>
+    <dimen name="txtHeader">24sp</dimen>
+</resources>
